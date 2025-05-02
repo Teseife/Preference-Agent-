@@ -1,0 +1,3 @@
+fish AND chips, 10
+wine OR ice-cream, 7
+NOT fries, 4

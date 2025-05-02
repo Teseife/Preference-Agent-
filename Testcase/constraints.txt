@@ -1,0 +1,2 @@
+NOT fish OR NOT chips
+NOT cake OR NOT wine

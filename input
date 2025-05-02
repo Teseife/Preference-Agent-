@@ -1,0 +1,11 @@
+ExampleTestCase/attributes.txt
+ExampleTestCase/constraints.txt
+
+ExampleTestCase/penaltylogic.txt
+ExampleTestCase/qualitativechoicelogic.txt
+
+TestCase/attributes.txt
+TestCase/constraints.txt
+
+TestCase/penaltylogic.txt
+TestCase/qualitativechoicelogic.txt

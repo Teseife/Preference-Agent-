@@ -1,0 +1,4 @@
+dessert: cake, ice-cream
+drink: wine, beer
+main: fish, beef
+snack: fries, chips
